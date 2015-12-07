@@ -27,7 +27,7 @@
         <table>
           <tr>
             <td width="150">
-              <a href="apidocs/org/apache/commons/codec/binary/Base32.html">Base32
+              <a href="apidocs/org/apaches/commons/codec/binary/Base32.html">Base32
               </a>
             </td>
             <td>
@@ -38,7 +38,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/binary/Base32InputStream.html">Base32InputStream
+                href="apidocs/org/apaches/commons/codec/binary/Base32InputStream.html">Base32InputStream
               </a>
             </td>
             <td>Provides Base32 encoding and decoding in a streaming
@@ -47,7 +47,7 @@
           </tr>
           <tr>
             <td width="150">
-              <a href="apidocs/org/apache/commons/codec/binary/Base64.html"> Base64
+              <a href="apidocs/org/apaches/commons/codec/binary/Base64.html"> Base64
               </a>
             </td>
             <td>
@@ -58,7 +58,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/binary/Base64InputStream.html">Base64InputStream
+                href="apidocs/org/apaches/commons/codec/binary/Base64InputStream.html">Base64InputStream
               </a>
             </td>
             <td>Provides Base64 encoding and decoding in a streaming
@@ -68,7 +68,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/binary/BinaryCodec.html"> BinaryCodec
+                href="apidocs/org/apaches/commons/codec/binary/BinaryCodec.html"> BinaryCodec
               </a>
             </td>
             <td>Converts between byte arrays and strings of "0"s and
@@ -77,7 +77,7 @@
           </tr>
           <tr>
             <td>
-              <a href="apidocs/org/apache/commons/codec/binary/Hex.html"> Hex
+              <a href="apidocs/org/apaches/commons/codec/binary/Hex.html"> Hex
               </a>
             </td>
             <td>Converts hexadecimal Strings.
@@ -90,7 +90,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/digest/DigestUtils.html">DigestUtils
+                href="apidocs/org/apaches/commons/codec/digest/DigestUtils.html">DigestUtils
               </a>
             </td>
             <td>
@@ -107,7 +107,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/language/Caverphone1.html">Caverphone 1.0
+                href="apidocs/org/apaches/commons/codec/language/Caverphone1.html">Caverphone 1.0
               </a>
             </td>
             <td>Encodes a string into a Caverphone 1.0 value.
@@ -116,7 +116,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/language/Caverphone2.html">Caverphone 2.0
+                href="apidocs/org/apaches/commons/codec/language/Caverphone2.html">Caverphone 2.0
               </a>
             </td>
             <td>Encodes a string into a Caverphone 2.0 value.
@@ -125,7 +125,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/language/ColognePhonetic.html">Cologne Phonetic
+                href="apidocs/org/apaches/commons/codec/language/ColognePhonetic.html">Cologne Phonetic
               </a>
             </td>
             <td>Encodes a string into a Cologne Phonetic value.
@@ -134,7 +134,7 @@
           <tr>
             <td>
               <a
-                href="apidocs/org/apache/commons/codec/language/DoubleMetaphone.html">Double Metaphone
+                href="apidocs/org/apaches/commons/codec/language/DoubleMetaphone.html">Double Metaphone
               </a>
             </td>
             <td>Encodes a string into a double metaphone value.
@@ -143,7 +143,7 @@
           <tr>
             <td>
               <a
-                href="apidocs/org/apache/commons/codec/language/Metaphone.html">Metaphone
+                href="apidocs/org/apaches/commons/codec/language/Metaphone.html">Metaphone
               </a>
             </td>
             <td>Encodes a string into a Metaphone value.
@@ -152,7 +152,7 @@
           <tr>
             <td>
               <a
-                href="apidocs/org/apache/commons/codec/language/RefinedSoundex.html">Refined Soundex
+                href="apidocs/org/apaches/commons/codec/language/RefinedSoundex.html">Refined Soundex
               </a>
             </td>
             <td>Encodes a string into a Refined Soundex value.
@@ -161,7 +161,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/language/Soundex.html">Soundex
+                href="apidocs/org/apaches/commons/codec/language/Soundex.html">Soundex
               </a>
             </td>
             <td>Encodes a string into a Soundex value.
@@ -173,7 +173,7 @@
         <table>
           <tr>
             <td width="150">
-              <a href="apidocs/org/apache/commons/codec/net/BCodec.html"> BCodec
+              <a href="apidocs/org/apaches/commons/codec/net/BCodec.html"> BCodec
               </a>
             </td>
             <td>
@@ -184,7 +184,7 @@
           </tr>
           <tr>
             <td width="150">
-              <a href="apidocs/org/apache/commons/codec/net/QCodec.html"> QCodec
+              <a href="apidocs/org/apaches/commons/codec/net/QCodec.html"> QCodec
               </a>
             </td>
             <td>
@@ -199,7 +199,7 @@
           <tr>
             <td width="150">
               <a
-                href="apidocs/org/apache/commons/codec/net/QuotedPrintableCodec.html"> QuotedPrintableCodec
+                href="apidocs/org/apaches/commons/codec/net/QuotedPrintableCodec.html"> QuotedPrintableCodec
               </a>
             </td>
             <td>
@@ -210,7 +210,7 @@
           </tr>
           <tr>
             <td width="150">
-              <a href="apidocs/org/apache/commons/codec/net/URLCodec.html"> URLCodec
+              <a href="apidocs/org/apaches/commons/codec/net/URLCodec.html"> URLCodec
               </a>
             </td>
             <td>
